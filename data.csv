@@ -1,0 +1,451 @@
+text,label
+"Great movie!",Positive
+"I didn't like it.",Negative
+"The plot was confusing.",Neutral
+"The acting was superb.",Positive
+"It made me laugh.",Positive
+"It was a waste of time.",Negative
+"The cinematography was stunning.",Positive
+"The ending was disappointing.",Negative
+"I found it average.",Neutral
+"The performances were outstanding.",Positive
+"The story lacked depth.",Negative
+"It had its moments.",Neutral
+"Highly recommended!",Positive
+"I couldn't stand it.",Negative
+"It was just okay.",Neutral
+"Absolutely loved it!",Positive
+"I've seen better.",Negative
+"It didn't leave an impression.",Neutral
+"A masterpiece!",Positive
+"Not worth the hype.",Negative
+"It was forgettable.",Neutral
+"Brilliantly executed.",Positive
+"I regret watching it.",Negative
+"It was neither good nor bad.",Neutral
+"Captivating from start to finish.",Positive
+"I couldn't wait for it to end.",Negative
+"It was average at best.",Neutral
+"An incredible performance.",Positive
+"It was a complete letdown.",Negative
+"I didn't have strong feelings about it.",Neutral
+"Couldn't take my eyes off the screen.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
+"Outstanding acting.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"So powerful and moving.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Absolutely fantastic!",Positive
+"I was highly disappointed.",Negative
+"It was nothing special.",Neutral
+"Exquisite storytelling.",Positive
+"I couldn't connect with it.",Negative
+"It was neither good nor bad.",Neutral
+"Compelling and thought-provoking.",Positive
+"I've seen better films.",Negative
+"It didn't leave a lasting impression.",Neutral
+"A must-watch!",Positive
+"I wish I hadn't watched it.",Negative
+"It was forgettable.",Neutral
+"Phenomenal performance.",Positive
+"It fell short of my expectations.",Negative
+"It was just average.",Neutral
+"Riveting from beginning to end.",Positive
+"I couldn't stand it.",Negative
+"It was okay.",Neutral
+"Truly remarkable.",Positive
+"I didn't enjoy it at all.",Negative
+"It didn't resonate with me.",Neutral
+"Incredible acting.",Positive
+"It was a waste of time and money.",Negative
+"It didn't have anything special.",Neutral
+"Mesmerizing and captivating.",Positive
+"I was utterly disappointed.",Negative
+"It was unremarkable.",Neutral
+"An absolute gem!",Positive
+"I regretted watching it.",Negative
+"It was mediocre.",Neutral
+"Awe-inspiring performance.",Positive
+"It didn't live up to the hype.",Negative
+"It was underwhelming.",Neutral
+"Unforgettable and moving.",Positive
+"I didn't like it.",Negative
+"It was neither here nor there.",Neutral
+"Stunning cinematography.",Positive
+"It was a complete waste.",Negative
+"It didn't leave an impact.",Neutral
+"A true cinematic masterpiece!",Positive
+"I was unimpressed.",Negative
+"It was just so-so.",Neutral
+"Incredibly moving.",Positive
+"I didn't care for it.",Negative
+"It failed to make an impression.",Neutral
+"Exceptional acting.",Positive
+"It was a disappointment.",Negative
+"It didn't stand out.",Neutral
+"Masterfully crafted.",Positive
+"I wouldn't recommend it to anyone.",Negative
+"It left me indifferent.",Neutral
+"Spellbinding and enchanting.",Positive
+"I found it to be a letdown.",Negative
+"It was average at best.",Neutral
+"A phenomenal piece of work.",Positive
+"I didn't enjoy it.",Negative
+"It didn't resonate with me.",Neutral
+"Brilliantly portrayed.",Positive
+"It fell short of my expectations.",Negative
+"It was just okay.",Neutral
+"A captivating experience.",Positive
+"I couldn't stand it.",Negative
+"It was forgettable.",Neutral
+"A true work of art.",Positive
+"I wish I hadn't wasted my time on it.",Negative
+"It didn't leave an impression.",Neutral
+"Absolutely outstanding!",Positive
+"I've seen better films.",Negative
+"It was neither memorable nor remarkable.",Neutral
+"Engrossing and enthralling.",Positive
+"I regret watching it.",Negative
+"It was nothing special.",Neutral
+"Superb acting skills.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"Compelling and emotionally charged.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Exquisitely crafted.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
+"Absolutely breathtaking!",Positive
+"I was highly disappointed.",Negative
+"It was forgettable.",Neutral
+"Powerful and moving.",Positive
+"I couldn't connect with it.",Negative
+"It was neither good nor bad.",Neutral
+"Stellar performances.",Positive
+"It was a waste of time.",Negative
+"It didn't have anything special.",Neutral
+"Captivating and suspenseful.",Positive
+"I was utterly disappointed.",Negative
+"It was unremarkable.",Neutral
+"An absolute masterpiece!",Positive
+"I regretted watching it.",Negative
+"It was mediocre.",Neutral
+"Outstanding acting skills.",Positive
+"It didn't live up to the hype.",Negative
+"It was underwhelming.",Neutral
+"Unforgettable and emotionally resonant.",Positive
+"I didn't like it.",Negative
+"It was neither here nor there.",Neutral
+"Stunning visuals.",Positive
+"It was a complete waste.",Negative
+"It didn't leave an impact.",Neutral
+"A true gem!",Positive
+"I was unimpressed.",Negative
+"It was just so-so.",Neutral
+"Incredibly powerful.",Positive
+"I didn't care for it.",Negative
+"It failed to make an impression.",Neutral
+"Exceptional performance.",Positive
+"It was a disappointment.",Negative
+"It didn't stand out.",Neutral
+"Masterfully executed.",Positive
+"I wouldn't recommend it to anyone.",Negative
+"It left me indifferent.",Neutral
+"Spellbinding and mesmerizing.",Positive
+"I found it to be a letdown.",Negative
+"It was average at best.",Neutral
+"A phenomenal achievement.",Positive
+"I didn't enjoy it.",Negative
+"It didn't resonate with me.",Neutral
+"Brilliantly acted.",Positive
+"It fell short of my expectations.",Negative
+"It was just okay.",Neutral
+"A mesmerizing journey.",Positive
+"I couldn't stand it.",Negative
+"It was forgettable.",Neutral
+"A true masterpiece.",Positive
+"I wish I hadn't wasted my time on it.",Negative
+"It didn't leave an impression.",Neutral
+"Absolutely exceptional!",Positive
+"I've seen better films.",Negative
+"It was neither memorable nor remarkable.",Neutral
+"Engaging and immersive.",Positive
+"I regret watching it.",Negative
+"It was nothing special.",Neutral
+"Flawless acting.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"Compelling and gripping.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Spectacularly directed.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
+"Awe-inspiring and breathtaking.",Positive
+"I was highly disappointed.",Negative
+"It was forgettable.",Neutral
+"Visually stunning.",Positive
+"I couldn't connect with it.",Negative
+"It was neither good nor bad.",Neutral
+"Phenomenal performances.",Positive
+"It was a waste of time.",Negative
+"It didn't have anything special.",Neutral
+"Intense and thrilling.",Positive
+"I was utterly disappointed.",Negative
+"It was unremarkable.",Neutral
+"A true cinematic gem!",Positive
+"I regretted watching it.",Negative
+"It was mediocre.",Neutral
+"Incredible acting skills.",Positive
+"It didn't live up to the hype.",Negative
+"It was underwhelming.",Neutral
+"Unforgettable and emotionally charged.",Positive
+"I didn't like it.",Negative
+"It was neither here nor there.",Neutral
+"Stunning cinematography.",Positive
+"It was a complete waste.",Negative
+"It didn't leave an impact.",Neutral
+"A cinematic marvel!",Positive
+"I was unimpressed.",Negative
+"It was just so-so.",Neutral
+"Incredibly captivating.",Positive
+"I didn't care for it.",Negative
+"It failed to make an impression.",Neutral
+"Outstanding performance.",Positive
+"It was a disappointment.",Negative
+"It didn't stand out.",Neutral
+"Exceptionally well-made.",Positive
+"I wouldn't recommend it to anyone.",Negative
+"It left me indifferent.",Neutral
+"Spellbinding and enchanting.",Positive
+"I found it to be a letdown.",Negative
+"It was average at best.",Neutral
+"A true masterpiece.",Positive
+"I didn't enjoy it.",Negative
+"It didn't resonate with me.",Neutral
+"Brilliantly directed.",Positive
+"It fell short of my expectations.",Negative
+"It was just okay.",Neutral
+"A truly immersive experience.",Positive
+"I couldn't stand it.",Negative
+"It was forgettable.",Neutral
+"A true work of art.",Positive
+"I wish I hadn't wasted my time on it.",Negative
+"It didn't leave an impression.",Neutral
+"Absolutely extraordinary!",Positive
+"I've seen better films.",Negative
+"It was neither memorable nor remarkable.",Neutral
+"Engrossing and thought-provoking.",Positive
+"I regret watching it.",Negative
+"It was nothing special.",Neutral
+"Outstanding performances.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"Compelling and emotionally charged.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Exquisite cinematography.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
+"Absolutely breathtaking!",Positive
+"I was highly disappointed.",Negative
+"It was forgettable.",Neutral
+"Powerful and moving.",Positive
+"I couldn't connect with it.",Negative
+"It was neither good nor bad.",Neutral
+"Stellar acting skills.",Positive
+"It was a waste of time.",Negative
+"It didn't have anything special.",Neutral
+"Captivating and suspenseful.",Positive
+"I was utterly disappointed.",Negative
+"It was unremarkable.",Neutral
+"An absolute masterpiece!",Positive
+"I regretted watching it.",Negative
+"It was mediocre.",Neutral
+"Phenomenal acting.",Positive
+"It didn't live up to the hype.",Negative
+"It was underwhelming.",Neutral
+"Unforgettable and emotionally resonant.",Positive
+"I didn't like it.",Negative
+"It was neither here nor there.",Neutral
+"Stunning visuals.",Positive
+"It was a complete waste.",Negative
+"It didn't leave an impact.",Neutral
+"A true gem!",Positive
+"I was unimpressed.",Negative
+"It was just so-so.",Neutral
+"Incredibly powerful.",Positive
+"I didn't care for it.",Negative
+"It failed to make an impression.",Neutral
+"Exceptional performance.",Positive
+"It was a disappointment.",Negative
+"It didn't stand out.",Neutral
+"Masterfully executed.",Positive
+"I wouldn't recommend it to anyone.",Negative
+"It left me indifferent.",Neutral
+"Spellbinding and mesmerizing.",Positive
+"I found it to be a letdown.",Negative
+"It was average at best.",Neutral
+"A phenomenal achievement.",Positive
+"I didn't enjoy it.",Negative
+"It didn't resonate with me.",Neutral
+"Brilliantly portrayed.",Positive
+"It fell short of my expectations.",Negative
+"It was just okay.",Neutral
+"A mesmerizing journey.",Positive
+"I couldn't stand it.",Negative
+"It was forgettable.",Neutral
+"A true cinematic masterpiece!",Positive
+"I wish I hadn't wasted my time on it.",Negative
+"It didn't leave an impression.",Neutral
+"Absolutely exceptional!",Positive
+"I've seen better films.",Negative
+"It was neither memorable nor remarkable.",Neutral
+"Engaging and immersive.",Positive
+"I regret watching it.",Negative
+"It was nothing special.",Neutral
+"Flawless acting skills.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"Compelling and gripping.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Spectacularly directed.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
+"A true cinematic gem!",Positive
+"I was highly disappointed.",Negative
+"It was forgettable.",Neutral
+"Visually stunning.",Positive
+"I couldn't connect with it.",Negative
+"It was neither good nor bad.",Neutral
+"Phenomenal performances.",Positive
+"It was a waste of time.",Negative
+"It didn't have anything special.",Neutral
+"Intense and thrilling.",Positive
+"I was utterly disappointed.",Negative
+"It was unremarkable.",Neutral
+"A true masterpiece.",Positive
+"I regretted watching it.",Negative
+"It was mediocre.",Neutral
+"Incredible acting skills.",Positive
+"It didn't live up to the hype.",Negative
+"It was underwhelming.",Neutral
+"Unforgettable and emotionally charged.",Positive
+"I didn't like it.",Negative
+"It was neither here nor there.",Neutral
+"Stunning cinematography.",Positive
+"It was a complete waste.",Negative
+"It didn't leave an impact.",Neutral
+"A cinematic marvel!",Positive
+"I was unimpressed.",Negative
+"It was just so-so.",Neutral
+"Incredibly captivating.",Positive
+"I didn't care for it.",Negative
+"It failed to make an impression.",Neutral
+"Outstanding performance.",Positive
+"It was a disappointment.",Negative
+"It didn't stand out.",Neutral
+"Exceptionally well-made.",Positive
+"I wouldn't recommend it to anyone.",Negative
+"It left me indifferent.",Neutral
+"Spellbinding and enchanting.",Positive
+"I found it to be a letdown.",Negative
+"It was average at best.",Neutral
+"A phenomenal achievement.",Positive
+"I didn't enjoy it.",Negative
+"It didn't resonate with me.",Neutral
+"Brilliantly directed.",Positive
+"It fell short of my expectations.",Negative
+"It was just okay.",Neutral
+"A truly immersive experience.",Positive
+"I couldn't stand it.",Negative
+"It was forgettable.",Neutral
+"A true work of art.",Positive
+"I wish I hadn't wasted my time on it.",Negative
+"It didn't leave an impression.",Neutral
+"Absolutely extraordinary!",Positive
+"I've seen better films.",Negative
+"It was neither memorable nor remarkable.",Neutral
+"Engrossing and thought-provoking.",Positive
+"I regret watching it.",Negative
+"It was nothing special.",Neutral
+"Outstanding performances.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"Compelling and emotionally charged.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Exquisite cinematography.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
+"Absolutely breathtaking!",Positive
+"I was highly disappointed.",Negative
+"It was forgettable.",Neutral
+"Powerful and moving.",Positive
+"I couldn't connect with it.",Negative
+"It was neither good nor bad.",Neutral
+"Stellar acting skills.",Positive
+"It was a waste of time.",Negative
+"It didn't have anything special.",Neutral
+"Captivating and suspenseful.",Positive
+"I was utterly disappointed.",Negative
+"It was unremarkable.",Neutral
+"An absolute masterpiece!",Positive
+"I regretted watching it.",Negative
+"It was mediocre.",Neutral
+"Phenomenal acting.",Positive
+"It didn't live up to the hype.",Negative
+"It was underwhelming.",Neutral
+"Unforgettable and emotionally resonant.",Positive
+"I didn't like it.",Negative
+"It was neither here nor there.",Neutral
+"Stunning visuals.",Positive
+"It was a complete waste.",Negative
+"It didn't leave an impact.",Neutral
+"A true gem!",Positive
+"I was unimpressed.",Negative
+"It was just so-so.",Neutral
+"Incredibly powerful.",Positive
+"I didn't care for it.",Negative
+"It failed to make an impression.",Neutral
+"Exceptional performance.",Positive
+"It was a disappointment.",Negative
+"It didn't stand out.",Neutral
+"Masterfully executed.",Positive
+"I wouldn't recommend it to anyone.",Negative
+"It left me indifferent.",Neutral
+"Spellbinding and mesmerizing.",Positive
+"I found it to be a letdown.",Negative
+"It was average at best.",Neutral
+"A phenomenal achievement.",Positive
+"I didn't enjoy it.",Negative
+"It didn't resonate with me.",Neutral
+"Brilliantly portrayed.",Positive
+"It fell short of my expectations.",Negative
+"It was just okay.",Neutral
+"A mesmerizing journey.",Positive
+"I couldn't stand it.",Negative
+"It was forgettable.",Neutral
+"A true cinematic masterpiece!",Positive
+"I wish I hadn't wasted my time on it.",Negative
+"It didn't leave an impression.",Neutral
+"Absolutely exceptional!",Positive
+"I've seen better films.",Negative
+"It was neither memorable nor remarkable.",Neutral
+"Engaging and immersive.",Positive
+"I regret watching it.",Negative
+"It was nothing special.",Neutral
+"Flawless acting skills.",Positive
+"It was a waste of money.",Negative
+"It didn't stand out.",Neutral
+"Compelling and gripping.",Positive
+"I was bored throughout.",Negative
+"It didn't make an impact.",Neutral
+"Spectacularly directed.",Positive
+"I wouldn't recommend it.",Negative
+"It left me indifferent.",Neutral
