@@ -3,3 +3,4 @@ beautifulsoup4
 transformers
 tensorflow
 torch
+streamlit
